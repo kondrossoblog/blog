@@ -83,6 +83,9 @@ section{
     overflow: hidden;
 }
 article{
+    writing-mode: vertical-rl;
+    text-orientation: mixed;
+    text-combine-upright: all;
     width: calc(50% - 15px);
     padding: 2.5%;
     margin-bottom: 30px;
